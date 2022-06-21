@@ -1,0 +1,47 @@
+﻿main_money|Сurrency: 
+money_count|Crypts: 
+record|Record: 
+your_money|Your score: 
+level_earth|Level planet: 
+count_box|Count box: 
+shop_button|Shop
+back_button|Back
+shop_level_buy_text|Level
+shop_price_buy_text|Price: 
+shop_buy_button|Buy
+box_buy_button|Buy key
+mission_text_1|Destroy 20 enemies
+mission_text_2|Destroy 50 enemies
+mission_text_3|Destroy 100 enemies
+mission_text_4|Destroy 1000 enemies
+mission_text_5|Destroy 1 boss
+mission_text_6|Destroy 10 boss
+mission_text_7|Destroy 50 boss
+mission_text_8|Hit 10 times
+mission_text_9|Hit 100 times
+mission_text_10|Hit 1000 times
+mission_text_11|Upgrade the mechanic to level 10
+mission_text_12|Upgrade the doctor to level 10
+mission_text_13|Upgrade an engineer to level 10
+mission_text_14|Upgrade the pilot to level 10
+mission_text_15|Secret (will open only when executed)
+mission_text_16|Secret (will open only when executed)
+mission_text_17|Secret (will open only when executed)
+delete_text|Are you sure you want to delete the data?
+TapText|TAP TAP
+giftText|Сurrency:
+gameOver|GAME OVER
+tapContinue|Tap on the screen to exit
+coinContinue|Continue for 5 crypts
+adContinue|Continue for viewing ads
+DayliQuestButtonText|Quests
+AchievementsButtonText|Achievements
+dailyGiftText|Daily quests
+SkillButtonText|Abilities
+SkinButtonText|Ships
+underDevText|Under development
+GuildText|Wing
+buyAdBoxDrop|Get for AD
+oneGameAbilityText|One-time improvements
+musicSettingsText|Music settings
+controlSettingsText|Control settings

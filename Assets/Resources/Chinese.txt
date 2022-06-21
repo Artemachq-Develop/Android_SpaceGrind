@@ -1,0 +1,3 @@
+﻿welcome=欢迎
+start=开始
+end=结束

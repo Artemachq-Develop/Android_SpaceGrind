@@ -1,0 +1,47 @@
+﻿main_money|Валюта: 
+money_count|Крипта: 
+record|Рекорд: 
+your_money|Ваш счет: 
+level_earth|Стадия планеты: 
+count_box|Количество коробок:
+shop_button|Магазин
+back_button|Назад
+shop_level_buy_text|Уровень
+shop_price_buy_text|Цена: 
+shop_buy_button|Купить
+box_buy_button|Купить ключ
+mission_text_1|Уничтожить 20 противников
+mission_text_2|Уничтожить 50 противников
+mission_text_3|Уничтожить 100 противников
+mission_text_4|Уничтожить 1000 противников
+mission_text_5|Уничтожить 1 босса
+mission_text_6|Уничтожить 10 босса
+mission_text_7|Уничтожить 50 босса
+mission_text_8|Ударться 10 раз
+mission_text_9|Ударться 100 раз
+mission_text_10|Ударться 1000 раз
+mission_text_11|Прокачать механика до 10 уровня
+mission_text_12|Прокачать доктора до 10 уровня
+mission_text_13|Прокачать инженера до 10 уровня
+mission_text_14|Прокачать пилота до 10 уровня
+mission_text_15|Секретно (откроется только при выполнении)
+mission_text_16|Секретно (откроется только при выполнении)
+mission_text_17|Секретно (откроется только при выполнении)
+delete_text|Вы уверены, что хотите удалить данные?
+TapText|Нажимай
+giftText|Валюта:
+gameOver|Игра окончена
+tapContinue|Нажмите на экран чтобы выйти
+coinContinue|Продолжить за 5 крипты
+adContinue|Продолжить за просмотр рекламы
+DayliQuestButtonText|Задания
+AchievementsButtonText|Достижения
+dailyGiftText|Ежедневные задания
+SkillButtonText|Способности
+SkinButtonText|Корабли
+underDevText|В разработке
+GuildText|Крыло
+buyAdBoxDrop|Получить за рекламу
+oneGameAbilityText|Одноразовые улучшения
+musicSettingsText|Настройки музыки
+controlSettingsText|Настройки управления
