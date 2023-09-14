@@ -1,10 +1,14 @@
-![GorodskoyGonshikPNG](https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/ed77fc80-a4a5-446a-9068-f3efdb1f3696)
+![DCYm2R](https://user-images.githubusercontent.com/22640434/174868393-35f6af5c-4b9e-494b-be14-d9bb7d08ed22.png)
 
-<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/f2d33ba8-edaa-45c6-b2aa-4407d1327f9f' width='35%'>
-<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/c9a23094-1c69-4b2f-b2e5-a5ebd56d0733' width='35%'>
+Можно скачать в [Google Play](https://play.google.com/store/apps/details?id=com.ArtStyleProd.SpaceGrind).
+
+Узнать больше и поиграть в браузере [ITCH.IO](https://artemachq.itch.io/space-grind).
+
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/fb870c95-9af8-4162-bebd-4bcded39f7d9' width='25%'>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/9e66a922-5ca6-4143-a18f-4f69882b37ea' width='25%'>
 <br>
-<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/e7f0fe2c-b010-4ab9-b183-ed66968eb18c' width='35%'>
-<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/407796ec-d04b-402f-a9b0-c2e3b80d1e7c' width='35%'>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/67112cdc-350d-401f-9bcd-711a27c7981f' width='25%'>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/e241f584-df20-4013-bf6e-8873280cb3f9' width='25%'>
 
 ## Look Video Demo
-[![Watch the video](https://cdn.gtricks.com/2017/09/YouTube-Logo.png)](https://youtu.be/dbpn1SJp-YY)
+[![Watch the video](https://cdn.gtricks.com/2017/09/YouTube-Logo.png)](https://youtube.com/shorts/lu6t1tXdk-g)
