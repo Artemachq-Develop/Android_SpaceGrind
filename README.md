@@ -4,10 +4,11 @@
 
 Узнать больше и поиграть в браузере [ITCH.IO](https://artemachq.itch.io/space-grind).
 
-![ScreenShot_20230914063400](https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/fb870c95-9af8-4162-bebd-4bcded39f7d9)
-![ScreenShot_20230914063410](https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/9e66a922-5ca6-4143-a18f-4f69882b37ea)
-![ScreenShot_20230914063138](https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/67112cdc-350d-401f-9bcd-711a27c7981f)
-![ScreenShot_20230914063336](https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/e241f584-df20-4013-bf6e-8873280cb3f9)
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/fb870c95-9af8-4162-bebd-4bcded39f7d9' width='25%'>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/9e66a922-5ca6-4143-a18f-4f69882b37ea' width='25%'>
+<br>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/67112cdc-350d-401f-9bcd-711a27c7981f' width='25%'>
+<img src='https://github.com/Artemachq-Develop/Android_SpaceGrind/assets/22640434/e241f584-df20-4013-bf6e-8873280cb3f9' width='25%'>
 
 ## Look Video Demo
 [![Watch the video](https://cdn.gtricks.com/2017/09/YouTube-Logo.png)](https://youtube.com/shorts/lu6t1tXdk-g)
